@@ -17,11 +17,11 @@ It can be built using Dictionary Development Kit.
 			It's application icon looks like below.<br/>
 			<img src="Images/_internal_dictionary.png" alt="Dictionary.app Icon"/>
 		</span>
-	
-	
-	
-	
+
 	</d:entry>
+	
+	
+	
 	<d:entry id="make_1" d:title="make">
 		<d:index d:value="make"/>
 		<d:index d:value="makes"/>
